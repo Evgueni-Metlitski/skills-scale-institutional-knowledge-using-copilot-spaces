@@ -28,10 +28,21 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Scrum Master:
+  - Developers:
+  - UX/UI Designer (if applicable):
+  - Business Analyst (if applicable):
+  - QA/Tester:
+  - Key Stakeholders:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Key team roles identified (PM, PdM, Scrum Master, Developers, UX/UI Designer, BA, QA/Tester)
+- [ ] Initial requirements workshop scheduled (if BA is involved)
+- [ ] UX research or design discovery kicked off (if UX/UI Designer is involved)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
